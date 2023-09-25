@@ -15,19 +15,13 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
 
-  * Criar o formulário que será usado para adicionar cartas ao baralho.
-  * Adicionar as props necessárias ao componente de formulário.
-  * Criar e renderize o componente Card com as props necessárias.
-  * Criar o preview da carta que está sendo criada pelo formulário.
-  * Fazer a validação do botão de Salvar no formulário.
-  * Criar a função do botão salvar.
-  * Criar a validação do Super Trunfo.
-  * Exibir a lista de cartas que estão salvas no estado.
-  * Criar um botão para remover uma carta do baralho.
-  * Requisitos bônus:
-    * Criar o filtro pelo nome da carta.
-    * Criar o filtro por raridade da carta.
-    * Criar o filtro de Super Trunfo.
+  * Teste o componente <App.js />.
+  * Teste o componente <About.js />.
+  * Teste o componente <FavoritePokemon.js />.
+  * Teste o componente <NotFound.js />.
+  * Teste o componente <Pokedex.js />.
+  * Teste o componente <Pokemon.js />.
+  * Teste o componente <PokemonDetails.js />.
 </details>
   
 ## Rodando o projeto localmente
