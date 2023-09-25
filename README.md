@@ -5,13 +5,12 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <summary><strong>Objetivos do projeto:</strong></summary>
 
   * Desenvolver testes para uma aplicação `React` que já está criada e configurada, utilizando `Jest` e a biblioteca `React Testing Library`.
-  * Verificar se eu era capaz de desenvolver usando:
-    * Ler o estado de um componente e usá-lo para alterar o que exibimos no browser.
-    * Inicializar um componente, dando a ele um estado pré-definido.
-    * Atualizar o estado de um componente.
-    * Capturar eventos utilizando a sintaxe do React.
-    * Criar formulários utilizando sintaxe JSX com as tags: `input`, `textarea`, `select`, `form`, `checkbox`.
-    * Transmitir informações de componentes filhos para componentes pais via callbacks.
+  * Verificar se eu era capaz de:
+    * Utilizar os seletores `queries` da `React-Testing-Library` em testes automatizados.
+    * Simular eventos com a `React-Testing-Library` em testes automatizados.
+    * Testar fluxos lógicos assíncronos com a `React-Testing-Library`.
+    * Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados.
+    * Testar `inputs`.
 </details>
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
