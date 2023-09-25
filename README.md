@@ -15,13 +15,13 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
 
-  * Teste o componente <App.js />.
-  * Teste o componente <About.js />.
-  * Teste o componente <FavoritePokemon.js />.
-  * Teste o componente <NotFound.js />.
-  * Teste o componente <Pokedex.js />.
-  * Teste o componente <Pokemon.js />.
-  * Teste o componente <PokemonDetails.js />.
+  * Teste o componente `<App.js />`.
+  * Teste o componente `<About.js />`.
+  * Teste o componente `<FavoritePokemon.js />`.
+  * Teste o componente `<NotFound.js />`.
+  * Teste o componente `<Pokedex.js />`.
+  * Teste o componente `<Pokemon.js />`.
+  * Teste o componente `<PokemonDetails.js />`.
 </details>
   
 ## Rodando o projeto localmente
