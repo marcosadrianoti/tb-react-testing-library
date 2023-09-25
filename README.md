@@ -1,4 +1,4 @@
-# Projeto Tryunfo! :flower_playing_cards:
+# Projeto de testes com RTL - `React Testing Library`! :test_tube:
 Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Divulgado aqui como portfólio de aprendizado.
 
 <details>
