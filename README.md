@@ -36,13 +36,13 @@ cd meu-diretorio
 Clone o projeto com o comando `git clone`:
 
 ```bash
-git clone git@github.com:marcosadrianoti/tb-tryunfo.git
+git clone git@github.com:marcosadrianoti/tb-react-testing-library.git
 ```
 
 Acesse o diretório do projeto com o comando `cd`:
 
 ```bash
-cd tb-tryunfo
+cd tb-react-testing-library
 ```
 
 Instale as dependências executando:
@@ -60,5 +60,11 @@ npm run start
 Para executar os testes:
 
 ```bash
-npm test
-``` 
+npm run test
+```
+
+Para executar os testes de cobertura:
+
+```bash
+npm run test-coverage
+```
